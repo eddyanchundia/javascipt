@@ -1,3 +1,4 @@
+<javascript>
 <html>
 <center><h3> FACTURACION DE AUTOS</h3></center>
 
@@ -104,3 +105,4 @@ parc= res1+ res2 + res3;
 </BODY> 
 
 </HTML> 
+</javascript>
